@@ -12,7 +12,7 @@ public class Log4j {
 		//step1
 		BasicConfigurator.configure();
 		// step2
-		Logger log = Logger.getLogger(null)
+		Logger log = Logger.getLogger(null);
 	}
 
 }
