@@ -23,6 +23,7 @@ public class Base_test implements Framework_const1{
 	public void CloseApplication(  )
 	{
 		driver.close();
+		//Extra modification
 		
 	}
 	
