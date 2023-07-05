@@ -13,6 +13,7 @@ public class Log4j {
 		BasicConfigurator.configure();
 		// step2
 		Logger log = Logger.getLogger(null);
+		//step333
 	}
 
 }
