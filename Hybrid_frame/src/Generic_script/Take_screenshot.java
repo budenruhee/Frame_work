@@ -26,6 +26,7 @@ public class Take_screenshot {
 			File dst=new File("C:\\Users\\hp\\Documents\\SELENIUM\\gowri.png");
 			//step4
 			FileHandler.copy(src, dst);
+			//updates
 			
 			
 		}
